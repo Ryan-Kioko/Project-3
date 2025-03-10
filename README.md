@@ -25,4 +25,6 @@ This project explores how football fans and stakeholders perceive Video Assistan
 - Ebuka
 - Elvis
 
+## References
+- FER-2013 Dataset: https://www.kaggle.com/deadskull7/fer2013
 
