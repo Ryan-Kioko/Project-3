@@ -20,8 +20,8 @@ This project explores how football fans and stakeholders perceive Video Assistan
 - Provide insights on user engagement and potential areas for improving VAR implementation.   
 
 ## Contributors  
-- **Team Members**: [Ryan
-- Ebuka
-- Elvis]  
+- **Team Members**: -Ryan
+                    -Ebuka
+                    -Elvis
 
 
