@@ -1,7 +1,4 @@
 # Project 3 - Sentiment Analysis of Fan and Stakeholder Perception on VAR Decisions Across Different Football Leagues  
-## Table of Contents
-.....
-
 
 ## Overview  
 This project explores how football fans and stakeholders perceive Video Assistant Referee (VAR) decisions across different leagues using sentiment analysis on public data available online. By analyzing fan and stakeholder reactions from platforms like Twitter, Reddit, and Web pages, the research aims to identify trends, biases, and patterns in sentiment towards VAR as a macth official.  
