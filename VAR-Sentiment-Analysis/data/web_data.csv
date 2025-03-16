@@ -1,0 +1,86 @@
+﻿league_name,comment,sentiment_label,sentiment_score
+Premier League,Jamie OHara has called for an investigation into VAR following Arsenal teen Myles LewisSkellys controversial red card.,NEGATIVE,0.906584263
+Premier League,LewisSkelly was sent off by referee Michael Oliver late in the first half of Arsenals 10 win over Wolves at Molineux.,NEGATIVE,0.957586169
+Premier League,The 18yearold tripped up Wolves Matt Doherty as he looked to spring a counterattack following an Arsenal corner.,NEGATIVE,0.926842213
+Premier League,It was an incident that would typically be punished with a yellow card given it appeared to be a professional foul.,NEGATIVE,0.999161363
+Premier League,But Arsenals players were left flabbergasted when Oliver brandished a red with the Premier League since being urged to drop the referee.,NEGATIVE,0.891073048
+Premier League,"Darren England, who was the VAR official for the contest, upheld Olivers decision as LewisSkellys tackle was deemed serious foul play. The decisionmaking of Oliver and England to brandish and subsequently double down on the red card left OHara shaking his head, labelling it one of the worst decisions Ive ever seen. However, the fact England had all the technology at his disposal and still came to the conclusion that LewisSkelly deserved a red card was what prompted OHara to demand VAR should be shut down.",NEGATIVE,0.999461234
+Premier League,"Honestly, Ive watched the replay and Ive seen it in slomo, OHara said on talkSPORT.",POSITIVE,0.803963482
+Premier League,Its almost like he Michael Oliver couldnt wait to get the red card out.,POSITIVE,0.698655784
+Premier League,It was unbelievable what I saw.,NEGATIVE,0.964035153
+Premier League,"For VAR to look at it and agree with him, it is absolutely disgraceful.",NEGATIVE,0.999231219
+Premier League,"In every replay you watch, you can see LewisSkelly sticks his foot out, he wants to take a booking for the team.",NEGATIVE,0.803812504
+Premier League,"Every footballer has done it, everyone.",POSITIVE,0.998434007
+Premier League,"Its not serious foul play, its a professional play.",NEGATIVE,0.953371465
+Premier League,"You take one for the team, you take a yellow and you move on.",POSITIVE,0.999080658
+Premier League,"For him to pull a red card out and say its serious foul play, that he went down the back of his Achilles, is a disgrace.",NEGATIVE,0.999774158
+Premier League,VAR should get shut down.,NEGATIVE,0.999777734
+Premier League,That is how bad VAR is.,NEGATIVE,0.999815285
+Premier League,The fact they cant overturn that decision when theyve looked at it again.,NEGATIVE,0.883396268
+Premier League,"All the technology youve got in that room, theyre all standing there, looking at that decision and they accept it was a red card?",POSITIVE,0.796696723
+Premier League,"There has to be an investigation into whats going on there. Arteta said he was too fuming to comment on it, but wants the decision overturned in the same way Manchester United midfielder Bruno Fernandes was let off following a red card against Tottenham earlier in the season.",NEGATIVE,0.99955076
+Premier League,"I am absolutely fuming but I leave it with you, he said.",POSITIVE,0.985102654
+Premier League,I think it is that obvious that we dont need any comment today and hopefully the right thing will happen.,POSITIVE,0.986962855
+Premier League,"Hopefully we dont need to appeal the decision and if we have to, there is a really good precedent, what happened with Bruno this season as well.",NEGATIVE,0.868147075
+Premier League,"OK, we were in a position that we shouldnt be in, at least lets be in a position that we should be in for the next few weeks and allow that player to continue to his job. Arteta also revealed he had not received any explanation on LewisSkellys red card.",NEGATIVE,0.998945296
+Premier League,"As to whether Arsenal would appeal the red card, Arteta responded Thats for the club to decide what the best decision is.",POSITIVE,0.959997952
+Premier League,"I think its that obvious, maybe we dont even need to. Former referee Mike Dean believes the club have huge grounds to appeal it and are likely to win.",POSITIVE,0.99886632
+Premier League,"I think theyve got grounds for appealing, he told Soccer Saturday.",NEGATIVE,0.902445793
+Premier League,Its just whether when the panel sits and reviews it exmanagers and explayers which way will they go?,NEGATIVE,0.998526931
+Premier League,"I would think if they appeal, the way managers and players look at it, none of the players will think its a red card, so I think they may well win the appeal. LewisSkellys red card is the latest chapter in a string of VAR controversies this season.",NEGATIVE,0.97805357
+Premier League,OHara and fellow talkSPORT pundit Jason Cundy were shocked when Manchester Citys Rico Lewis was shown a second yellow against Crystal Palace for a challenge on Trevoh Chalobah.,NEGATIVE,0.510117471
+Premier League,"However, replays showed it was Chalobah who made contact on Lewis rather than the other way around.",NEGATIVE,0.923509896
+Premier League,"But given Lewis was shown a second yellow rather than a straight red, VAR could not intervene.",POSITIVE,0.546165705
+Premier League,The issue of not being able to review sending offs that stem from a second yellow set Cundy off.,NEGATIVE,0.999693871
+Premier League,"Look, it aint brilliant, it aint perfect, but its in the game and its going to stay, Cundy said.",POSITIVE,0.999196708
+Premier League,Second yellow cards for a red have to be looked at by VAR.,NEGATIVE,0.9953022
+Premier League,"I dont understand how a straight red can be looked at, yet a second yellow for a red cant be.",NEGATIVE,0.997481406
+Premier League,I dont get that.,NEGATIVE,0.998467028
+Premier League,"If VAR is here to stay, right, and it is, improve the game, make it better, make it work.",POSITIVE,0.997726977
+Premier League,"Because for me, that second yellow, its not a second yellow. Palace were also the beneficiaries of VAR earlier in the season against Leicester City.",NEGATIVE,0.914302468
+Premier League,"Eagles marksman JeanPhilippe Mateta scored a 92ndminute equaliser from the spot to rescue his side from 20 down, as the result ended 22.",POSITIVE,0.99807775
+Premier League,"But former Foxes boss Steve Cooper was left irate over the Frenchmans first goal as it was initially flagged for offside, only for VAR to overturn the decision and award it.",NEGATIVE,0.981407166
+Premier League,Yet Cooper was adamant VAR used the wrong freezeframe to determine whether Mateta was offside or not.,NEGATIVE,0.998437464
+La Liga,"The club met with PGMOL, the governing body of referees in England, to discuss the matter two days after the match but it was explained to them there was no human error and the correct frame was used.",NEGATIVE,0.568865538
+La Liga,"Since VARs inception in 2018, Real Madrid had 32 goals disallowed by VARmore than any other club in the competitions history.",POSITIVE,0.978930593
+La Liga,"This figure is nearly 2.5 times higher than Atletico Madrid, Celta Vigo, and Sevilla 17 each and also dwarfs Barcelonas 13 disallowed goals.",NEGATIVE,0.566112399
+La Liga,"The frequency of VAR interventions in La Liga reflects a clear officiating philosophy referees routinely defer to VAR for marginal offside calls and foul assessments, particularly in highstakes matches.",NEGATIVE,0.98376447
+La Liga,Ancelotti expanded on this concern in his press conference I have doubts because I think VAR has taken too much responsibility away from the referee.,NEGATIVE,0.998094738
+La Liga,Its a bit of a dangerous system.,NEGATIVE,0.980369627
+La Liga,"VAR was introduced to eliminate blatant and obvious mistakes, not to intervene in every ingame decision. Real Madrids experience with overreliance on VAR is particularly extreme.",NEGATIVE,0.993126154
+La Liga,The club has had three goals overturned in a single match on two separate occasionsagainst Elche in 2022 and Las Palmas in 2025.,NEGATIVE,0.98208195
+La Liga,"On average, each VAR intervention has added 8.2 minutes of stoppage time per match, significantly disrupting the rhythm of play compared to UEFAs more restrained approach.",POSITIVE,0.963764846
+La Liga,"While full 20232025 Champions League data isnt yet available, historical trends and the Premier Leagues 2024 benchmarks suggest that European competitions employ a far more measured approach to VAR.",NEGATIVE,0.981403232
+La Liga,"Englands top flight, often aligned with UEFA officiating standards, recorded just 13 VAR errors in the 20242025 season through February, with only four incorrect interventions that directly altered match outcomes.",NEGATIVE,0.995401978
+La Liga,"Extrapolating this to UEFAs 125match group stage, projected interventions would total roughly 24 incidentsa far cry from La Ligas 87 VARrelated stoppages over the same period.",NEGATIVE,0.993595958
+La Liga,This disparity stems from philosophical differences.,NEGATIVE,0.996417165
+La Liga,"Spanish football prioritizes hypertechnical officiating, seeking microscopic accuracy at the expense of match fluidity.",NEGATIVE,0.999634266
+La Liga,"With 32 more VAR interventions per game than the Champions League, La Ligas excessive reliance on technology has diminished the role of the onfield referee.",NEGATIVE,0.97845161
+La Liga,"According to FBref, La Ligas 20242025 season saw 11.2 minutes of VARrelated stoppages per match, contributing to the leagues 58.7minute average ballinplay time3.4 minutes less than the Champions Leagues 20232024 mark.",POSITIVE,0.975815296
+La Liga,"In contrast, UEFA referees are trained to minimize interruptions through a silent check protocol, where 68 of potential reviews conclude without stopping play.",POSITIVE,0.999794424
+La Liga,"As a result, Champions League matches averaged 62.1 active minutes per match in 20232024, preserving the rhythm of play and benefiting teams that rely on technical ability.",NEGATIVE,0.999651909
+La Liga,"Another major issue plaguing La Liga officiating is its failure to control games through early yellow card interventions, leading to a higher frequency of red cards.",NEGATIVE,0.98019284
+La Liga,"In the 20232024 UEFA Champions League, referees averaged 4.2 yellow cards per game, with red cards occurring in just 12 of matches.",POSITIVE,0.994828045
+La Liga,"La Liga, by contrast, saw red card involvement in 23 of highfoul games, highlighting its struggle to curb escalating aggression through proactive officiating.",POSITIVE,0.995346963
+La Liga,"Champions League officials typically call between 27 and 32 fouls per match, ensuring that play continues as much as possible.",POSITIVE,0.9766922
+La Liga,"This aligns with UEFAs emphasis on continuity, reflected in its 63 ballinplay time, compared to La Ligas 58.",POSITIVE,0.726363182
+La Liga,"The Spanish leagues lower numbers encourage physical midfield battles, whereas UEFAs approach favors fluidity and technical play.",NEGATIVE,0.950917363
+La Liga,"Not only does La Liga call more fouls on average, but the weektoweek variance in officiating styles creates an unpredictable set of rules for each match.",NEGATIVE,0.996193051
+La Liga,"In 2024, individual referee tendencies varied widely This inconsistency fuels frustration among clubs, as teams are forced to adapt to vastly different officiating standards depending on the referee.",NEGATIVE,0.989089191
+La Liga,One key reason for this variability is La Ligas decentralized training structure.,POSITIVE,0.645238817
+La Liga,"Unlike UEFA, which enforces uniform guidelines across competitions, Spanish officiating is divided into regional bodieseach promoting distinct philosophies.",NEGATIVE,0.999683857
+La Liga,"This leads to a wider variance in referee performance, making it difficult to establish consistency.",NEGATIVE,0.967846334
+La Liga,"La Liga referees have historically been more hesitant to award penalties, averaging 0.30 penalties per game, compared to the UEFA Champions Leagues 0.41 per game in 20232024.",NEGATIVE,0.990490317
+La Liga,This discrepancy stems from differing interpretations of contact inside the box.,NEGATIVE,0.988473356
+La Liga,"Spanish referees tend to apply a clear obstruction threshold, often waving off borderline contact.",NEGATIVE,0.981879532
+La Liga,"UEFA officials, on the other hand, enforce a stricter any contact approach, leading to a higher frequency of spotkick decisions.",NEGATIVE,0.995036304
+La Liga,"A major issue in Spain, however, is the inconsistency in these standards weektoweek.",NEGATIVE,0.996960223
+La Liga,"One match might feature strict enforcement of minimal contact, while another sees leniency toward more physical playfurther fueling frustration among players and managers.",NEGATIVE,0.999629259
+La Liga,"The statistics validate Ancelottis concerns VAR has too much control in La Liga, and weektoweek officiating standards fluctuate dramatically.",NEGATIVE,0.999473631
+La Liga,"While UEFA prioritizes game flow and consistency, La Liga has leaned into overintervention and excessive reliance on technology, reducing the authority of onfield referees.",POSITIVE,0.546787798
+La Liga,"To address these issues, La Liga must adopt a more uniform officiating philosophy, streamline its VAR protocols, and ensure referees apply consistent standards across matches.",NEGATIVE,0.971381724
+La Liga,"Until then, frustration among clubs, coaches, and fans will continue to grow.",NEGATIVE,0.998264134
+Bundesliga,"From questionable penalties to red card drama, the Royal Spanish Football Federation RFEF is facing a fullblown credibility crisis.",NEGATIVE,0.99084878
+Bundesliga,"Real Madrid has since lodged an official complaint with the RFEF, demanding a thorough review of officiating standards.",NEGATIVE,0.999499083
+Serie A,"Rayo Vallecanos president slammed the inconsistent VAR interventions, further intensifying the calls for reform.",NEGATIVE,0.980632842
+Serie A,"The first championship that is tired of VAR is the Bundesliga, because in Germany the use of technology on the field has not produced the expected effects, so much so that voices against it are increasing and there is talk that in January it will be completely removed.",POSITIVE,0.979204416
