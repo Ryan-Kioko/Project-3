@@ -19,3 +19,5 @@ This project explores how football fans and stakeholders perceive Video Assistan
 - Comparative statistics highlighting major differences in how VAR is received in different football cultures.
 - Provide insights on user engagement and potential areas for improving VAR implementation.   
 
+## Licences 
+N/A
