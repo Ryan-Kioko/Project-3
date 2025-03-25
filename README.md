@@ -9,8 +9,6 @@ This project explores how football fans and stakeholders perceive Video Assistan
 - Compare sentiment trends across major football leagues (e.g., EPL, La Liga, Serie A, Bundesliga).   
 - Provide insights that could help football governing bodies, clubs, and analysts understand how VAR impacts fan sentiment.
 
-## Installation Guide
-
 ## Key Features  
 - **Multi-League Sentiment Comparison**: Examines how VAR-related sentiment differs between football leagues.  
 - **NLP-Driven Sentiment Classification**: Uses natural language processing techniques to assess fan reactions.  
@@ -21,4 +19,3 @@ This project explores how football fans and stakeholders perceive Video Assistan
 - Comparative statistics highlighting major differences in how VAR is received in different football cultures.
 - Provide insights on user engagement and potential areas for improving VAR implementation.   
 
-## Folder Structure
