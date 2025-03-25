@@ -9,6 +9,66 @@ This project explores how football fans and stakeholders perceive Video Assistan
 - Compare sentiment trends across major football leagues (e.g., EPL, La Liga, Serie A, Bundesliga).   
 - Provide insights that could help football governing bodies, clubs, and analysts understand how VAR impacts fan sentiment.
 
+## Installation Guide
+📁 Accessing the Notebook
+Clone the Repository:
+
+Download the project by cloning the GitHub repository.
+
+Open the repository folder and navigate to:
+
+css
+Copy
+Edit
+VAR Sentiment Analysis → models → finalProject3.ipynb  
+Running the Notebook:
+You can run the notebook on platforms that support Jupyter notebooks, such as:
+
+Google Colab:
+
+Go to Google Colab.
+
+Click "File" → "Upload notebook".
+
+Select the finalProject3.ipynb file and run it.
+
+Kaggle:
+
+Go to Kaggle.
+
+Create a new notebook.
+
+Click "Add Data" → "Upload a file".
+
+Select the finalProject3.ipynb file and run the cells.
+
+Local Jupyter Notebook:
+
+If you have Jupyter installed, open the terminal or command prompt.
+
+Navigate to the project folder.
+
+Launch the notebook and run the cells.
+
+⚙️ Required Libraries
+Make sure you have the following Python libraries installed:
+
+pandas
+
+numpy
+
+matplotlib
+
+seaborn
+
+scikit-learn
+
+nltk
+
+snscrape
+
+
+
 ## Key Features  
 - **Multi-League Sentiment Comparison**: Examines how VAR-related sentiment differs between football leagues.  
 - **NLP-Driven Sentiment Classification**: Uses natural language processing techniques to assess fan reactions.  
