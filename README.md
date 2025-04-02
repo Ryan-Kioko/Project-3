@@ -62,19 +62,19 @@ Ensure you have the following Python libraries installed before running the note
 The sentiment analysis on Video Assistant Referee (VAR) decisions across different football leagues revealed a similarity in fan perception. Below are key findings from our analysis:
 
 ### 1. Confusion Matrix for Sentiment Classification
-![Confusion Matrix](path/to/your/image1.jpg)  
+![Confusion Matrix](VAR-Sentiment-Analysis/images/pic4.jpg)  
 
 - The model performed well in classifying negative, neutral, and positive sentiments.
 - Negative sentiment was most accurately classified, while neutral and positive sentiments also showed strong classification performance.
 
 ### 2. Sentiment Label Distribution by League
-![Sentiment Label Distribution](path/to/your/image2.jpg)  
+![Sentiment Label Distribution](VAR-Sentiment-Analysis/images/pic3.jpg)  
 
 - The Premier League had the highest number of negative sentiments compared to other leagues.
 - Bundesliga, La Liga, and Serie A had a more balanced distribution, with neutral and positive sentiments present but less frequent.
 
 ### 3. Average Sentiment Score by League
-![Average Sentiment Score](path/to/your/image3.jpg)  
+![Average Sentiment Score](VAR-Sentiment-Analysis/images/pic1.jpg)  
 
 - The overall sentiment scores were:
   - **Bundesliga:** -0.25  
