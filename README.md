@@ -56,7 +56,35 @@ Ensure you have the following Python libraries installed before running the note
 ## 💡 Expected Outcomes  
 - Identification of leagues where VAR is more controversial among fans, hence greater negative sentiment.  
 - Comparative statistics highlighting major differences in how VAR is received in different football cultures.
-- Provide insights on user engagement and potential areas for improving VAR implementation.   
+- Provide insights on user engagement and potential areas for improving VAR implementation.
+
+## ✅ Actual Outcomes
+The sentiment analysis on Video Assistant Referee (VAR) decisions across different football leagues revealed a similarity in fan perception. Below are key findings from our analysis:
+
+### 1. Confusion Matrix for Sentiment Classification
+![Confusion Matrix](path/to/your/image1.jpg)  
+
+- The model performed well in classifying negative, neutral, and positive sentiments.
+- Negative sentiment was most accurately classified, while neutral and positive sentiments also showed strong classification performance.
+
+### 2. Sentiment Label Distribution by League
+![Sentiment Label Distribution](path/to/your/image2.jpg)  
+
+- The Premier League had the highest number of negative sentiments compared to other leagues.
+- Bundesliga, La Liga, and Serie A had a more balanced distribution, with neutral and positive sentiments present but less frequent.
+
+### 3. Average Sentiment Score by League
+![Average Sentiment Score](path/to/your/image3.jpg)  
+
+- The overall sentiment scores were:
+  - **Bundesliga:** -0.25  
+  - **La Liga:** -0.27  
+  - **Premier League:** -0.11  
+  - **Serie A:** -0.11  
+- La Liga had the most negative sentiment, while the Premier League and Serie A had the least negativity.
+- Bundesliga and La Liga exhibited more dissatisfaction with VAR decisions compared to other leagues.
+
+These findings provide valuable insights into how different leagues perceive VAR decisions, which can help governing bodies improve decision-making transparency and fan communication.
 
 ## 🪪 Licences 
 N/A
